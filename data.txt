@@ -1,0 +1,20 @@
+Que1: What is the name of your country?
+Opt1: India, Pakistan, China, Peru
+Ans1: India
+Que2: What is the capital of Sri Lanka?
+Opt2: Sydney, Colombia, Colombo, None of the above
+Ans2: Colombo
+Que3: Which company makes macbook?
+Opt3: Nokia, Xiaomi, Micromax, Apple
+Ans3: Apple
+Que4: Fiat company is from which country?
+Opt4: India, Germany, Italy, Japan
+Ans4: Italy
+
+Que5: Who is the current President of India?
+Opt5: Droupadi Murmu,Ram Nath Kovind,Narendra Modi,Pratibha Patil
+Ans5: Droupadi Murmu
+
+Que6: Which country is source of Terrorism?
+Opt6: Pakistan, Turkey, Afghanistan, Maldives
+Ans6: Pakistan
